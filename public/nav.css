@@ -1,5 +1,6 @@
 .topnav {
   padding-bottom: 30px;
+  padding-right: 70px;
 }
 
 .topnav a {
@@ -19,7 +20,8 @@
   padding-left: 30px;
 }
 
-img {
+.image {
   float: left;
   display: block;
+  padding: 16px;
 }
